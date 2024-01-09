@@ -1,6 +1,6 @@
 package herancaPolimorfismoCollection;
 
-public class Ex01Animal {
+public abstract class Ex01Animal {
 
 	public String name = "Animal";
 	public int age = 0;
